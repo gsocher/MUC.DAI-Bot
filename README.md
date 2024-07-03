@@ -10,6 +10,8 @@ try the Chatbot on [https://mucdai-chatbot.hf.space](https://mucdai-chatbot.hf.s
 
 ```pip install -r requirements.txt```
 
+- use an OpenAI API key and store it in the environment variable 'OPENAI_API_KEY'
+
 - run the chatbot with 
 
 ```python app.py```
