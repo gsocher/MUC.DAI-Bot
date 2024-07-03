@@ -1,0 +1,34 @@
+.gap.panel {
+  padding: 0 !important;
+}
+/*
+div {
+  background-image: url("https://mediapool.hm.edu/media/mucdai/keyvisuals_1/mucdai_keyvisual_16_portrait_m.jpg") !important;
+}
+*/
+
+
+div.gap > .stretch {
+  display: none !important;
+}
+div.gap.panel > div.gr-group {
+  position: absolute;
+  bottom: 0;
+}
+h1 {
+  font-size: 24px !important;
+}
+.ask-button {
+  background-color: var(--color-accent);
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+}
+.title {
+  color: var(--block-label-text-color) !important;
+}
+.gallery-item {
+  color: var(--block-label-text-color) !important;
+}
+div.message-wrap {
+  margin-bottom: 32px !important;
+}
