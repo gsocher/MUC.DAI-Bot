@@ -1,3 +1,4 @@
 gradio
 llama-index
 openai
+pymupdf
